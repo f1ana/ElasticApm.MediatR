@@ -1,1 +1,1 @@
-# elastic-apm-dotnet-mediatr
+# ElasticApm.MediatR
