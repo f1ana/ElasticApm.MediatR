@@ -17,7 +17,7 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <PackageReference Include="Elastic.Apm" Version="1.6.1" />
+      <PackageReference Include="Elastic.Apm" Version="1.10.0" />
       <PackageReference Include="MediatR.Pipeline.Diagnostics" Version="0.2.0" />
     </ItemGroup>
     
